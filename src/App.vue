@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <hero title="Be my mate" subtitle="Choose your source of energy"></hero>
+    <hero title="Mate my day" subtitle="Choose your source of energy"></hero>
   </div>
 </template>
 
