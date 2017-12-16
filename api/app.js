@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var db = require('./data/db');
 
-var UserRouter = require('./api/routes/UserRouter');
-app.use('/users', UserRouter);
+var MateRouter = require('./api/routes/MateRouter');
+app.use('/mate', MateRouter);
 
 module.exports = app;

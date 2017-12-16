@@ -1,2 +1,2 @@
 var mongoose = require('mongoose');
-mongoose.connect('<your url>');
+mongoose.connect('mongodb://localhost/mate');

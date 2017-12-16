@@ -5,6 +5,10 @@ It is build with the help of [Vue.js](https://vuejs.org/), [Chart.js](http://www
 ## Setup
 ``` bash
 # install dependencies
+cd api
+npm install
+
+cd ..\frontend
 npm install
 
 # serve with hot reload at localhost:8080

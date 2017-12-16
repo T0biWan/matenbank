@@ -1,3 +1,5 @@
+api/data/mongodb
+
 TODOs.md
 *.pdf
 
@@ -82,8 +84,6 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/webstorm
-
-data/mongodb
 
 # Created by https://www.gitignore.io/api/node
 
