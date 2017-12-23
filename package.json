@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "vue": "^2.4.4"
+    "chart.js": "^2.7.1",
+    "vue": "^2.4.4",
+    "vue-chartjs": "^3.0.2"
   },
   "browserslist": [
     "> 1%",
