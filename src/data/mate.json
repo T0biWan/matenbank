@@ -1,37 +1,30 @@
 [
   {
-    "name": "Club Mate Cola",
-    "producer": "Loscher",
-    "liter": 0.5,
-    "price": 5.0,
-    "caffeine": 0.12
-  },
-  {
     "name": "Club Mate Granat",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 5.0,
+    "price": 1.0,
     "caffeine": 0.2
   },
   {
     "name": "Club Mate Ice Tea",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 5.0,
+    "price": 1.0,
     "caffeine": 0.22
   },
   {
     "name": "Club Mate Cola",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 5.0,
+    "price": 1.2,
     "caffeine": 0.2
   },
   {
     "name": "Club Mate",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 5.0,
+    "price": 1.0,
     "caffeine": 0.2
   },
   {
