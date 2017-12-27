@@ -3,14 +3,14 @@
     "name": "Club Mate Granat",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 1.0,
+    "price": 1.2,
     "caffeine": 0.2
   },
   {
     "name": "Club Mate Ice Tea",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 1.0,
+    "price": 1.2,
     "caffeine": 0.22
   },
   {
@@ -24,7 +24,7 @@
     "name": "Club Mate",
     "producer": "Loscher",
     "liter": 0.5,
-    "price": 1.0,
+    "price": 1.04,
     "caffeine": 0.2
   },
   {
@@ -33,5 +33,47 @@
     "liter": 0.5,
     "price": 1.14,
     "caffeine": 0.3
+  },
+  {
+    "name": "Mio Mio Mate",
+    "producer": "Vivaris",
+    "liter": 0.5,
+    "price": 0.84,
+    "caffeine": 0.2
+  },
+  {
+    "name": "Mio Mio Mate + Banane",
+    "producer": "Vivaris",
+    "liter": 0.5,
+    "price": 0.84,
+    "caffeine": 0.2
+  },
+  {
+    "name": "Mio Mio Mate + Ginger",
+    "producer": "Vivaris",
+    "liter": 0.5,
+    "price": 0.84,
+    "caffeine": 0.2
+  },
+  {
+    "name": "Mio Mio Cola",
+    "producer": "Vivaris",
+    "liter": 0.5,
+    "price": 0.84,
+    "caffeine": 0.2
+  },
+  {
+    "name": "Fritz-Mate",
+    "producer": "Fritz-Kola",
+    "liter": 0.5,
+    "price": 1.55,
+    "caffeine": 0.25
+  },
+  {
+    "name": "Berliner Mätchen",
+    "producer": "Nicmel Drinks",
+    "liter": 0.5,
+    "price": 2.04,
+    "caffeine": 0.22
   }
 ]
