@@ -37,7 +37,19 @@ export default {
         labels: this.names,
         datasets: [{
           label: "(g / l) / €",
-          backgroundColor: ["#3e95cd", "#8e5ea2", "#3cba9f", "#e8c3b9", "#c45850"],
+          backgroundColor: [
+            "#ffa726",
+            "#ffee58",
+            "#26a69a",
+            "#26c6da",
+            "#42a5f5",
+            "#e91e63",
+            "#00bcd4",
+            "#03a9f4",
+            "#3f51b5",
+            "#d81b60",
+            "#2196f3"
+          ],
           data: this.caffeinePerEuros
         }]
       },
