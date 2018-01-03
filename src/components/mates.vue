@@ -2,7 +2,7 @@
   <div>
     <canvas ref="bar_chart"></canvas>
     <div class="columns is-multiline is-centered">
-      <mate v-for="mate in mates"  class="column is-one-quarter" :mate="mate"></mate>
+      <mate v-for="mate in mates" :key="mate.name" class="column is-one-quarter" :mate="mate"></mate>
     </div>
   </div>
 </template>
