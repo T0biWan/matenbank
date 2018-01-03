@@ -2,8 +2,6 @@
   <div id="app">
     <hero title="Matenbank" subtitle="Choose your source of energy"></hero>
     <div class="container">
-      <charts :mates="mates"></charts>
-      <br />
       <mates :mates="mates"></mates>
     </div>
   </div>
