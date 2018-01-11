@@ -75,5 +75,12 @@
     "liter": 0.5,
     "price": 2.04,
     "caffeine": 0.22
+  },
+  {
+    "name": "Kicos",
+    "producer": "Kondrauer Mineral- und Heilbrunnen GmbH & Co. KG",
+    "liter": 0.5,
+    "price": 0.97,
+    "caffeine": 0.10
   }
 ]
