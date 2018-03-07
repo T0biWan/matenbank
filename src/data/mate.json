@@ -77,6 +77,27 @@
     "caffeine": 0.22
   },
   {
+    "name": "Mate Mate",
+    "producer": "Thomas Henry GmbH & Co. KG",
+    "liter": 0.5,
+    "price": 1.14,
+    "caffeine": 0.3
+  },
+  {
+    "name": "Buenos Mate",
+    "producer": "Buenos GmbH & Co. KG",
+    "liter": 0.5,
+    "price": 0.94,
+    "caffeine": 0.2
+  },
+  {
+    "name": "Ulticha Mate",
+    "producer": "B.I.T. Kult GmbH",
+    "liter": 0.5,
+    "price": 1.29,
+    "caffeine": 0.21
+  },
+  {
     "name": "Kicos",
     "producer": "Kondrauer Mineral- und Heilbrunnen GmbH & Co. KG",
     "liter": 0.5,
