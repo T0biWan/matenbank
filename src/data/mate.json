@@ -82,5 +82,12 @@
     "liter": 0.5,
     "price": 0.97,
     "caffeine": 0.10
+  },
+  {
+    "name": "LaMate",
+    "producer": "Dieck & Co.Erfrischungsgetränke oHG",
+    "liter": 0.33,
+    "price": 0.84,
+    "caffeine": 0.22
   }
 ]
